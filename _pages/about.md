@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-User
-
 I am currently a Master's student enrolled at Soochow University, and I am expected to graduate in July 2025. My academic advisors are Associate Professor [Juntao Li](https://lijuntaopku.github.io/) and Professor [Min Zhang](https://zhangminsuda.github.io/cn_homepage/Publications/). I also obtained my bachelor's degree from Soochow University. My research focuses on Natural Language Processing, LLMs' training and compression and pruning.
 
 A data-driven personal website
