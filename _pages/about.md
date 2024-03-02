@@ -20,9 +20,9 @@ I am currently a Master's student enrolled at Soochow University, and I am expec
 
 🔬 Experience
 ===========
-- 2023.4-2023.10: Research Intern in MSRA (LLM Evaluation&Agent)
-- 2022.7-2022.10: AI Algorithm Engineer in Alibaba group (Taobao E-commerce Learning with Label Noise)
-- 2021.7-2021.10: Engineer in Byte Dance AI-Lab Speech&Autio (Pretrained Models Inference Engine Development)
+- 2023.4-2023.10: Internship in Microsoft Research Asia (LLM Evaluation&Agent)
+- 2022.7-2022.10: Internship for AI Engineer in Alibaba group (Taobao E-commerce, Learning with Label Noise)
+- 2021.7-2021.10: Internship in Byte Dance AI-Lab Speech&Autio (Pretrained Model Inference Engine Development)
 
 📃 Publications
 ===============
@@ -31,7 +31,7 @@ equal contribution is marked by "*".
   **Dan Qiao**, Chenchen Dai, Yuyang Ding, Juntao Li, Qiang Chen, Wenliang Chen, Min Zhang (Soochow University; Alibaba Group)\
   **Oral** COLING 2022
 
-- Towards Better Hierarchical Text Classification with Data Generation [[Paper]](https://aclanthology.org/2023.findings-acl.489/) [[Code]](https://github.com/wangyuenlp/Data-Generation-for-HTC) \
+- Towards Better Hierarchical Text Classification with Data Generation [[Paper]](https://aclanthology.org/2023.findings-acl.489/) [[Code]](https://github.com/ant-research/Data-Generation-for-HTC) \
   Yue Wang*, **Dan Qiao***, Juntao Li, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Guannan Zhang, Min Zhang (Ant Group;Soochow University) \
   In Findings of the Association for Computational Linguistics: ACL 2023
 
