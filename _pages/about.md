@@ -8,6 +8,10 @@ redirect_from:
 ---
 I am currently a Master's student enrolled at Soochow University, and I am expected to graduate in July 2025. My academic advisors are Associate Professor [Juntao Li](https://lijuntaopku.github.io/) and Professor [Min Zhang](https://zhangminsuda.github.io/cn_homepage/Publications/). I also obtained my bachelor's degree from Soochow University. My research focuses on Natural Language Processing, LLMs' training and compression and pruning.
 
+- ✉️ Email: danqiao.jordan@gmail.com
+
+- <a href="https://github.com/jordddan"><img alt="GitHub license" src="https://github.com/favicon.ico"  width="2.5%"></a> Github: https://github.com/jordddan
+
 🎓 Education
 ===========
 
