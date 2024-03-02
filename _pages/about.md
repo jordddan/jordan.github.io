@@ -18,7 +18,7 @@ I am currently a Master's student enrolled at Soochow University, and I am expec
 ===========
 - 2023.4-2023.10: Research Intern in MSRA (LLM Evaluation&Agent)
 - 2022.7-2022.10: AI Algorithm Engineer in Alibaba group (Taobao E-commerce Learning with Label Noise)
-- 2021.7-2021.10: Engineer in Byte Dance AI-Lab Speech&Autio (Inference Engine Development)
+- 2021.7-2021.10: Engineer in Byte Dance AI-Lab Speech&Autio (Pretrained Models Inference Engine Development)
 
 📃 Publications
 ===============
@@ -45,10 +45,17 @@ equal contribution is marked by "*".
 - 2021.7-2021.10: Engineer in Byte Dance AI-Lab Speech&Autio (Inference Engine Development)
 
 🕹️ Project
-- Visual-ChatGPT: https://github.com/moymix/TaskMatrix
-- 
-🏆 Awards & Honors
+===========
+- Visual-ChatGPT: AIGC, Talking, Drawing and Editing with Visual Foundation Models.  <a href="https://github.com/moymix/TaskMatrix"><img  src="https://img.shields.io/badge/%3C/%3Ecode-grey.svg"></a>
+- OpenBA: OpenBA: An Open-Sourced 15B Bilingual Asymmetric Seq2Seq Model Pre-trained from Scratch. <a href="https://github.com/OpenNLG/OpenBA"><img  src="https://img.shields.io/badge/%3C/%3Ecode-grey.svg"></a>
+- Pruning-LLMs: The framework to prune LLMs to any size and any config. <a href="https://github.com/jordddan/Pruning-LLMs"><img  src="https://img.shields.io/badge/%3C/%3Ecode-grey.svg"></a>
+- Megatron-Cookbook: Codebase for pre-training, compressing, extending, and distilling LLMs with Megatron-LM. <a href="https://github.com/dwzq-com-cn/LLM"><img  src="https://img.shields.io/badge/%3C/%3Ecode-grey.svg"></a>
 
+🏆 Awards 
+===========
+-  🥇International Collegiate Programming Contest (ACM-ICPC) 2021 Xi'an Invitational Gold Medal 
+-  🥈China Collegiate Programming Contest (CCPC) 2020 Mianyang Station Silver Award 
+-  🥈International Collegiate Programming Contest (ACM-ICPC) 2019 Yinchuan Regional Competition Silver Medal 
 <!-- 
 Site-wide configuration
 -----------------------
