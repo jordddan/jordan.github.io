@@ -42,12 +42,6 @@ equal contribution is marked by "*".
 - OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch [[Paper]](https://arxiv.org/abs/2309.10706)[[Code]](https://github.com/OpenNLG/OpenBA)\
   arXiv:2309.10706
 
-🔬 Experience
-===========
-- 2023.4-2023.10: Research Intern in MSRA (LLM Evaluation&Agent)
-- 2022.7-2022.10: AI Algorithm Engineer in Alibaba group (Taobao E-commerce Learning with Label Noise)
-- 2021.7-2021.10: Engineer in Byte Dance AI-Lab Speech&Autio (Inference Engine Development)
-
 🕹️ Project
 ===========
 - Visual-ChatGPT: AIGC, Talking, Drawing and Editing with Visual Foundation Models.  <a href="https://github.com/moymix/TaskMatrix"><img  src="https://img.shields.io/badge/%3C/%3Ecode-grey.svg"></a>
