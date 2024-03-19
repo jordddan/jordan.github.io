@@ -35,7 +35,7 @@ equal contribution is marked by "*".
   **Oral** COLING 2022
 
 - Towards Better Hierarchical Text Classification with Data Generation [[Paper]](https://aclanthology.org/2023.findings-acl.489/) [[Code]](https://github.com/ant-research/Data-Generation-for-HTC) \
-  Yue Wang*, **Dan Qiao***, Juntao Li, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Guannan Zhang, Min Zhang (Ant Group;Soochow University) \
+  Yue Wang *, **Dan Qiao** *, Juntao Li, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Guannan Zhang, Min Zhang (Ant Group;Soochow University) \
   In Findings of the Association for Computational Linguistics: ACL 2023
 
 - GameEval: Evaluating LLMs on Conversational Games [[Paper]](https://arxiv.org/abs/2308.10032)[[Code]](https://github.com/jordddan/GameEval)\
