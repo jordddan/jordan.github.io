@@ -27,6 +27,9 @@ I am currently a Master's student enrolled at Soochow University, and I am expec
 📃 Publications
 ===============
 equal contribution is marked by "*".
+- OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning
+(LLM technical report, leading author, working on progress).
+
 - SelfMix: Robust Learning against Textual Label Noise with Self-Mixup Training [[Paper]](https://aclanthology.org/2022.coling-1.80/) [[Code]](https://github.com/noise-learning/SelfMix) \
   **Dan Qiao**, Chenchen Dai, Yuyang Ding, Juntao Li, Qiang Chen, Wenliang Chen, Min Zhang (Soochow University; Alibaba Group)\
   **Oral** COLING 2022
@@ -41,6 +44,8 @@ equal contribution is marked by "*".
 
 - OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch [[Paper]](https://arxiv.org/abs/2309.10706)[[Code]](https://github.com/OpenNLG/OpenBA)\
   arXiv:2309.10706
+
+
 
 🕹️ Project
 ===========
