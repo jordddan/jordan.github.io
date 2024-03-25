@@ -27,7 +27,7 @@ I am currently a Master's student enrolled at Soochow University, and I am expec
 📃 Publications
 ===============
 equal contribution is marked by "*".
-- OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning
+- OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning [[Code]](https://github.com/jordddan/OpenBA-v2)
 (LLM technical report, first author, working on progress).
 
 - SelfMix: Robust Learning against Textual Label Noise with Self-Mixup Training [[Paper]](https://aclanthology.org/2022.coling-1.80/) [[Code]](https://github.com/noise-learning/SelfMix) \
