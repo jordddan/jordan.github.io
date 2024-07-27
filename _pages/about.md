@@ -14,12 +14,12 @@ I am currently a Master's student enrolled at Soochow University, and I am expec
 
 🎓 Education
 ===========
-
 - 2018.9.1-2022.6.30: Undergraduate student at Soochow University, majoring in Artificial Intelligence, advised by [Juntao Li](https://lijuntaopku.github.io/).
 - 2022.9.1-Till Now: M.Phil student at Soochow University, majoring in Artificial Intelligence, advised by [Juntao Li](https://lijuntaopku.github.io/).
 
 🔬 Experience
 ===========
+- 2024.5-Now: Internship in ByteDance E-Commerce (Training ECOM-LLM)
 - 2023.4-2023.10: Internship in Microsoft Research Asia (LLM Evaluation&Agent)
 - 2022.7-2022.10: Internship for AI Engineer in Alibaba group (Taobao E-commerce, Learning with Label Noise)
 - 2021.7-2021.10: Internship in Byte Dance AI-Lab Speech&Autio (Pretrained Model Inference Engine Development)
@@ -27,8 +27,14 @@ I am currently a Master's student enrolled at Soochow University, and I am expec
 📃 Publications
 ===============
 equal contribution is marked by "*".
-- OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning [[Code]](https://github.com/jordddan/OpenBA-v2)
-(LLM technical report, first author, working on progress).
+- OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning [[Paper]](https://arxiv.org/pdf/2405.05957)[[Code]](https://github.com/jordddan/OpenBA-v2)  
+**Dan Qiao**,
+Yi Su,
+Pinzheng Wang,
+Jing Ye, WenJing Xie, Yuechi Zhou, Yuyang Ding, 
+Zecheng Tang, Jikai Wang, Yixin Ji, Yue Wang, Pei Guo, Zechen Sun, Zikang Zhang, 
+Juntao Li Pingfu Chao, Wenliang Chen, Guohong Fu, Guodong Zhou, Qiaoming Zhu, Min Zhang
+(LLM technical report)
 
 - SelfMix: Robust Learning against Textual Label Noise with Self-Mixup Training [[Paper]](https://aclanthology.org/2022.coling-1.80/) [[Code]](https://github.com/noise-learning/SelfMix) \
   **Dan Qiao**, Chenchen Dai, Yuyang Ding, Juntao Li, Qiang Chen, Wenliang Chen, Min Zhang (Soochow University; Alibaba Group)\
